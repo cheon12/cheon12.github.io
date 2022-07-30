@@ -4,6 +4,8 @@ main:
     url: https://cheon12.github.io/
   - title: "About"
     url: /about/
+  - title: "Category"
+    url: /category/
   #- title: "Post by Category"
   #  url: /year-archive/
   # - title: "Sample Collections"
