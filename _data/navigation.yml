@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "Home"
+    url: https://cheon12.github.io/
+  - title: "About"
+    url: /about/
+  #- title: "Post by Category"
+  #  url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
