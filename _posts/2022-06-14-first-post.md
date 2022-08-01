@@ -1,4 +1,4 @@
 ---
-title:"test"
+title: "Post: test"
 ---
 testdssdsdssdssd
