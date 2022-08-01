@@ -7,7 +7,7 @@ toc_label: "MYSELF"
 ---
 
 ![image-right](/assets/images/2.jpg){: .align-left}
-
+![image-name](image-url){: width="150" height="150"}
 
 **최적화**를 공부하고 있습니다.
 
