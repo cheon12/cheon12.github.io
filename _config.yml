@@ -112,7 +112,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "cjy7145@naver.com"
+      url: mailto: cjy7145@naver.com
     - label: "Notion"
       icon: "fas fa-fw fa-link"
       url: "https://scratched-rayon-d71.notion.site/b0d17a08c46847aa868248582573b85e"
@@ -290,3 +290,12 @@ defaults:
       comments: # true
       share: true
       related: true
+
+  # _pages                      : 해당 하단 영역이 새로 추가되었습니다.
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+

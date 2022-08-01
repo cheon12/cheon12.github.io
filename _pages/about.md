@@ -6,7 +6,8 @@ toc_sticky: true
 toc_label: "MYSELF"
 ---
 
-![icon](/assets/images/2.jpg)
+![image-right](/assets/images/2.jpg){: .align-left}
+
 
 **최적화**를 공부하고 있습니다.
 
