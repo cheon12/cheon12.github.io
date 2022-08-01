@@ -6,7 +6,7 @@ toc_sticky: true
 toc_label: "MYSELF"
 ---
 
-![icon](/assets/logo.ico/apple-icon-120x120.png)
+![icon](/assets/images/2.jpg)
 
 **최적화**를 공부하고 있습니다.
 
