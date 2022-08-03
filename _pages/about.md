@@ -6,8 +6,10 @@ toc_sticky: true
 toc_label: "MYSELF"
 ---
 
-![image-right](/assets/images/2.jpg){: .align-left}
-![image-name](image-url){: width="100" height="100"}
+![image](/assets/images/2.jpg)
+{: .align-left}
+![image](/assets/images/2.jpg)
+{: width="100" height="100"}
 
 **최적화**를 공부하고 있습니다!!!!!!!.
 
