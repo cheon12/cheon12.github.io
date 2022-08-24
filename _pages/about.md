@@ -35,16 +35,19 @@ toc_label: "MYSELF"
 ## **Skills**
 
 <br/>
+
 **Programming Language**
+
 <br/>
-    
+
     Python 💚💚💚
     R 💚
     C++ 💚
     
 <br/>
 
-**ML/DATA**
+**ML DATA**
+
 <br/>
     Pytorch 💚💚💚
     Numpy/Pandas 💚💚
@@ -54,6 +57,7 @@ toc_label: "MYSELF"
 <br/>
 
 **Etc**
+
 <br/>
     HTML 💚💚
     BS4  💚💚
