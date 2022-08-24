@@ -36,20 +36,28 @@ toc_label: "MYSELF"
 
 <br/>
 **Programming Language**
+<br/>
     
     Python 💚💚💚
     R 💚
     C++ 💚
+    
+<br/>
 
 **ML/DATA**
+<br/>
     Pytorch 💚💚💚
     Numpy/Pandas 💚💚
     Matplotlib 💚💚💚
     Seaborn 💚💚
+    
+<br/>
 
 **Etc**
+<br/>
     HTML 💚💚
     BS4  💚💚
+<br/>
     
 ## **Certifications**
 
