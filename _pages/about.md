@@ -14,8 +14,9 @@ toc_label: "MYSELF"
 
 ## **Education**
 
+<br/>
 
-Mechanical Engineering, Inha University
+<b>Mechanical Engineering, Inha University<b>
 
 
 <br/>
