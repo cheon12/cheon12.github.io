@@ -15,14 +15,15 @@ toc_label: "MYSELF"
 ## **Education**
 
 
+Mechanical Engineering, Inha University
+
 
 <br/>
 
 
 
 
-## **Work Experience**
-
+<!--## **Work Experience** -->
 
 
 
@@ -66,8 +67,8 @@ toc_label: "MYSELF"
     
 <br/>
     
-## **Certifications**
 
+<!--## **Certifications** -->
 
 ## **Experience**
      2022 인하 인공지능 챌린지 (3등/43)
