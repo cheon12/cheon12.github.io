@@ -16,7 +16,7 @@ toc_label: "MYSELF"
 
 <br/>
 
-<b>Mechanical Engineering, Inha University<b>
+<b> 2017.03 ~ : 인하대학교 기계공학과 <b>
 
 
 <br/>
