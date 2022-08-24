@@ -49,8 +49,9 @@ toc_label: "MYSELF"
 **ML DATA**
 
 <br/>
+    
     Pytorch 💚💚💚
-    Numpy/Pandas 💚💚
+    Numpy,Pandas 💚💚
     Matplotlib 💚💚💚
     Seaborn 💚💚
     
