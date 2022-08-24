@@ -12,17 +12,19 @@ toc_label: "MYSELF"
 
 <br/>
 
-## **Work Experience**
+## **Education**
+
+
 
 <br/>
 
 
 
 
+## **Work Experience**
 
 
 
-## **Education**
 
 <br/>
 
@@ -35,13 +37,24 @@ toc_label: "MYSELF"
 <br/>
 **Programming Language**
     
-    Python
-    
-    
-    
+    Python 💚💚💚
+    R 💚
+    C++ 💚
+
+**ML/DATA**
+    Pytorch 💚💚💚
+    Numpy/Pandas 💚💚
+    Matplotlib 💚💚💚
+    Seaborn 💚💚
+
+**Etc**
+    HTML 💚💚
+    BS4  💚💚
     
 ## **Certifications**
-
+     2022 인하 인공지능 챌린지 (3등/43)
+     2022 인하 인공지능 챌린지 본 대회(9등/
+     월간 데이콘 신용카드 사기 거래 탐지 AI 경진대회 상위 18% (82등 / 756)
 
 
 
