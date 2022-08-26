@@ -101,7 +101,9 @@ toc_label: "MYSELF"
   
  - [**월간 데이콘 신용카드 사기 거래 탐지 AI 경진대회 상위 18% (82등 / 756)**](https://cheon12.github.io/about/)
   
- - [**자율주행 센서의 안테나 성능 예측 AI 경진대회 **On going** **](https://cheon12.github.io/about/)
+ - [**자율주행 센서의 안테나 성능 예측 AI 경진대회**](https://cheon12.github.io/about/)
+  
+  
   
   
   
@@ -123,6 +125,7 @@ toc_label: "MYSELF"
 
 ## Links
 - [**Notion**](https://scratched-rayon-d71.notion.site/b0d17a08c46847aa868248582573b85e)
+  
 - [**Github**](https://github.com/cheon12)
 
     
