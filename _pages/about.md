@@ -22,6 +22,12 @@ toc_label: "MYSELF"
 
 ## **Research Interests**
 
+Machine Learning
+
+Deep Learning
+
+
+
 <br/>
 
 ## **Education**
