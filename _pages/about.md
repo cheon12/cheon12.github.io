@@ -22,9 +22,7 @@ toc_label: "MYSELF"
 
 ## **Research Interests**
 
-Machine Learning
-
-Deep Learning
+Machine Learning/Deep Learning
 
 
 
@@ -76,6 +74,7 @@ Deep Learning
 
     HTML 💚💚
     BS4  💚💚
+    Django  💚
     
 <br/>
     
