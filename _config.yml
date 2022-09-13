@@ -286,7 +286,7 @@ defaults:
       sidebar:
         nav: "main"
       read_time: true
-      comments: # true
+      comments:  true
       share: true
       related: true
       sidebar_main: true
