@@ -32,7 +32,7 @@ Machine Learning/Deep Learning
 
 <br/>
 
-<b> 2017.03 ~ : 인하대학교 기계공학과 <b>
+<b> 2017.03 ~ :  <b>
 
 <br/>
 
