@@ -147,7 +147,7 @@ Machine Learning/Deep Learning
 
 ## Links
   
-- [**Notion**](https://scratched-rayon-d71.notion.site/b0d17a08c46847aa868248582573b85e)
+- [**Notion**]( )
   
 - [**Github**](https://github.com/cheon12)
 
