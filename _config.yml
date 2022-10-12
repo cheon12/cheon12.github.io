@@ -110,9 +110,9 @@ author:
   location         : "South Korea"
   email            : cjy7145@naver.com
   links:
-    - label: "Notion"
-      icon: "fas fa-fw fa-link"
-      url: "https://scratched-rayon-d71.notion.site/b0d17a08c46847aa868248582573b85e"
+   # - label: "Notion"
+    #  icon: "fas fa-fw fa-link"
+     # url: "https://scratched-rayon-d71.notion.site/b0d17a08c46847aa868248582573b85e"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/cheon12"
